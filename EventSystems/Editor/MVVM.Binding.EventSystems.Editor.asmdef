@@ -1,0 +1,19 @@
+{
+    "name": "MVVM.Binding.EventSystems.Editor",
+    "references": [
+        "UniRx",
+        "MVVM.Binding",
+        "MVVM.Extension",
+        "Utils"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

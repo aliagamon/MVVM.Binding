@@ -1,0 +1,25 @@
+{
+    "name": "MVVM.Binding.Editor",
+    "references": [
+        "MVVM.Binding",
+        "rotorz.unity3d-reorderable-list",
+        "rotorz.unity3d-reorderable-list.editor",
+        "MVVM.Extension",
+        "Utils.Unity.Editor",
+        "MVVM.Core",
+        "Utils",
+        "MVVM.Binding.Binding.DataBindingTestCases"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

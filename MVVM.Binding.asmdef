@@ -1,0 +1,19 @@
+{
+    "name": "MVVM.Binding",
+    "references": [
+        "UniRx",
+        "UniRx.Async",
+        "rotorz.unity3d-reorderable-list",
+        "MVVM.Core",
+        "MVVM.Extension",
+        "Utils"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
