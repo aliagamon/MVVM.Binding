@@ -214,7 +214,7 @@ namespace MVVM.Binding.View
                 else
                 {
                     Destroy(item.gameObject);
-                    InstantiatedItems[index] = null;
+                    InstantiatedItems.RemoveAt(index);
                 }
                 OnCollectionChanged();
             }
